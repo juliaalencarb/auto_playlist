@@ -14,8 +14,8 @@ Create a playlist automatically on Youtube Music containing the top 100 songs fo
 
 - Python 3.11 - [read more](https://www.python.org/downloads/release/python-3110/)
 - bs4 module - [read more](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- requests module - [read more] (https://pypi.org/project/requests/)
-- ytmusicapi 0.25.0 - [read more] (https://pypi.org/project/ytmusicapi/)
+- requests module - [read more](https://pypi.org/project/requests/)
+- ytmusicapi 0.25.0 - [read more](https://pypi.org/project/ytmusicapi/)
 
 ---
 ## Functions
@@ -49,7 +49,7 @@ A json file containing the user's authorization tokens will be created.
 Before executing the program, the user can also set the playlist title and description by altering the strings 'test' and 'test description', respectivelly, passed as paramaters on line 17.
 
 <p align="center">
-<img src="https://github.com/juliaalencarb/auto_playlist/blob/master/images/YTMusic_parameters.png" width=75% height=75%>
+<img src="https://github.com/juliaalencarb/auto_playlist/blob/master/images/YTMusic_parameters.png" width=50% height=50%>
 </p>
 
 After all the setup is done, the user will be able to execute the script without errors. When the script is executed, the newly created playlist will appear on the user's library.
